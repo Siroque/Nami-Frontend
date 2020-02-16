@@ -133,3 +133,4 @@ thumb
 sketch
 
 # End of https://www.gitignore.io/api/react,macos,intellij+all
+/.yarn/cache/
