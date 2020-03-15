@@ -1,0 +1,8 @@
+﻿version: "3.4"
+
+services:
+
+  nami-frontend:
+    image: "nami-frontend:latest"
+    ports:
+      - "5556:80"
